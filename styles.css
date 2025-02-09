@@ -7,6 +7,9 @@ body {
     background-color: #f9e3e3;
     font-family: 'Arial', sans-serif;
     flex-direction: column;
+    background-image: url("https://marketplace.canva.com/EAEUf1ZOyzE/1/0/1600w/canva-pink-and-red-powerful-femme-personal-pattern-valentine%27s-day-desktop-wallpaper-vyLmDobNXOc.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
   }
   
   .container {
@@ -15,7 +18,8 @@ body {
   
   h1 {
     font-size: 2.5em;
-    color: #d32f2f;
+    /*color: #d32f2f;*/
+    color: #941E1E;
   }
   
   .buttons {
